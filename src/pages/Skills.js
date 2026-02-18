@@ -1,4 +1,4 @@
-import { Container, ListGroup, Image } from 'react-bootstrap';
+import { Container, ListGroup } from 'react-bootstrap';
 
 
 function Skills() {
